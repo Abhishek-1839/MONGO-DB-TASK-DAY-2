@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "66d04579213ffd0b37bb1ae8"
+  },
+  "company_name": "TechNova Solutions",
+  "date": {
+    "$date": "2024-10-20T00:00:00.000Z"
+  },
+  "appeared_students": [
+    "4",
+    "6"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d04579213ffd0b37bb1ae9"
+  },
+  "company_name": "Global Innovate Corp",
+  "date": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  },
+  "appeared_students": [
+    "4",
+    "3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d04579213ffd0b37bb1aea"
+  },
+  "company_name": "FutureTech Systems",
+  "date": {
+    "$date": "2024-10-30T00:00:00.000Z"
+  },
+  "appeared_students": [
+    "6",
+    "2",
+    "5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d04579213ffd0b37bb1aeb"
+  },
+  "company_name": "Quantum Data Solutions",
+  "date": {
+    "$date": "2024-11-05T00:00:00.000Z"
+  },
+  "appeared_students": [
+    "4",
+    "6",
+    "3",
+    "2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d04579213ffd0b37bb1aec"
+  },
+  "company_name": "EcoTech Innovations",
+  "date": {
+    "$date": "2024-11-10T00:00:00.000Z"
+  },
+  "appeared_students": [
+    "4",
+    "6",
+    "1"
+  ]
+}]

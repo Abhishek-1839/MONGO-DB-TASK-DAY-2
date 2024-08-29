@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66cf73bc365f8a44ef906389"
+  },
+  "user_id": "1",
+  "problems_solved": 75,
+  "date": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cf73bc365f8a44ef90638a"
+  },
+  "user_id": "2",
+  "problems_solved": 100,
+  "date": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cf73bc365f8a44ef90638b"
+  },
+  "user_id": "3",
+  "problems_solved": 40,
+  "date": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cf73bc365f8a44ef90638d"
+  },
+  "user_id": "5",
+  "problems_solved": 50,
+  "date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cf73bc365f8a44ef90638c"
+  },
+  "user_id": "4",
+  "problems_solved": 25,
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cf73bc365f8a44ef90638e"
+  },
+  "user_id": "6",
+  "problems_solved": 50,
+  "date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  }
+}]

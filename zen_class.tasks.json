@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "66d0412e213ffd0b37bb1ae2"
+  },
+  "topic_id": {
+    "$oid": "66d04031213ffd0b37bb1adc"
+  },
+  "description": "Create a simple calculator using JavaScript",
+  "due_date": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d0412e213ffd0b37bb1ae3"
+  },
+  "topic_id": {
+    "$oid": "66d04031213ffd0b37bb1add"
+  },
+  "description": "Design a MongoDB schema for a blog application",
+  "due_date": {
+    "$date": "2024-10-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d0412e213ffd0b37bb1ae4"
+  },
+  "topic_id": {
+    "$oid": "66d04031213ffd0b37bb1ade"
+  },
+  "description": "Build a to-do list application using React",
+  "due_date": {
+    "$date": "2024-10-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d0412e213ffd0b37bb1ae5"
+  },
+  "topic_id": {
+    "$oid": "66d04031213ffd0b37bb1adf"
+  },
+  "description": "Create a RESTful API using Node.js and Express",
+  "due_date": {
+    "$date": "2024-10-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d0412e213ffd0b37bb1ae6"
+  },
+  "topic_id": {
+    "$oid": "66d04031213ffd0b37bb1ae0"
+  },
+  "description": "Implement a binary search tree in Python",
+  "due_date": {
+    "$date": "2024-11-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d0412e213ffd0b37bb1ae7"
+  },
+  "topic_id": {
+    "$oid": "66d04031213ffd0b37bb1ae1"
+  },
+  "description": "Create a responsive portfolio website using HTML and CSS",
+  "due_date": {
+    "$date": "2024-09-06T00:00:00.000Z"
+  }
+}]

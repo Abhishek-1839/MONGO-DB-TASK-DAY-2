@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66d04031213ffd0b37bb1adc"
+  },
+  "name": "Introduction to JavaScript",
+  "date": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "custom_id": "js_intro_id"
+},
+{
+  "_id": {
+    "$oid": "66d04031213ffd0b37bb1add"
+  },
+  "name": "MongoDB Basics",
+  "date": {
+    "$date": "2024-10-12T00:00:00.000Z"
+  },
+  "custom_id": "mongo_basics_id"
+},
+{
+  "_id": {
+    "$oid": "66d04031213ffd0b37bb1ade"
+  },
+  "name": "React Fundamentals",
+  "date": {
+    "$date": "2024-10-19T00:00:00.000Z"
+  },
+  "custom_id": "react_fundamentals_id"
+},
+{
+  "_id": {
+    "$oid": "66d04031213ffd0b37bb1adf"
+  },
+  "name": "Node.js and Express",
+  "date": {
+    "$date": "2024-10-26T00:00:00.000Z"
+  },
+  "custom_id": "nodejs_express_id"
+},
+{
+  "_id": {
+    "$oid": "66d04031213ffd0b37bb1ae0"
+  },
+  "name": "Data Structures in Python",
+  "date": {
+    "$date": "2024-11-02T00:00:00.000Z"
+  },
+  "custom_id": "python_ds_id"
+},
+{
+  "_id": {
+    "$oid": "66d04031213ffd0b37bb1ae1"
+  },
+  "name": "HTML AND CSS ADVANCED",
+  "date": {
+    "$date": "2024-08-30T00:00:00.000Z"
+  },
+  "custom_id": "html_css_advanced_id"
+}]

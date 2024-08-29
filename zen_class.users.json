@@ -1,0 +1,60 @@
+[{
+  "_id": "1",
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "role": "student",
+  "batch": "B001",
+  "joining_date": {
+    "$date": "2024-08-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": "2",
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "role": "student",
+  "batch": "B001",
+  "joining_date": {
+    "$date": "2024-08-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": "3",
+  "name": "Bob Johnson",
+  "email": "bob.johnson@example.com",
+  "role": "mentor",
+  "batch": "B001",
+  "joining_date": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": "4",
+  "name": "Abhishek",
+  "email": "abhishek@example.com",
+  "role": "student",
+  "batch": "B002",
+  "joining_date": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": "5",
+  "name": "Sathish",
+  "email": "sathish@example.com",
+  "role": "mentor",
+  "batch": "B002",
+  "joining_date": {
+    "$date": "2024-08-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": "6",
+  "name": "Sreeni",
+  "email": "sreeni@example.com",
+  "role": "student",
+  "batch": "B002",
+  "joining_date": {
+    "$date": "2024-08-12T00:00:00.000Z"
+  }
+}]
